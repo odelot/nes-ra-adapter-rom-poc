@@ -1,0 +1,1 @@
+C:\dev\bin\nesdev\fceux\fceux64.exe cart.nes
