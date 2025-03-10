@@ -1,4 +1,4 @@
-# nes-firmware-poc
+# nes-ra-adapter-rom-poc
 Proof of Concept (PoC) for a NES ROM that would interfacing with a microcontroller
 
 ## Overview
